@@ -1,0 +1,26 @@
+Product ID,Product Name,Category,Brand,Supplier,Stock Quantity,Cost Price,Selling Price,Ratings (Avg.),Launch Date
+PROD1000,Sneakers,Fashion,Adidas,XYZ Distributors,317,3095,2474,4.5,2023-09-21
+PROD1001,Yoga Mat,Sports,Sony,FastTrack Logistics,327,3850,3555,3.6,2021-07-19
+PROD1002,Vacuum Cleaner,Home & Kitchen,Adidas,FastTrack Logistics,179,3818,3526,3.3,2023-11-10
+PROD1003,Perfume,Fashion,LG,XYZ Distributors,390,2393,3546,3.7,2021-07-10
+PROD1004,T-Shirt,Fashion,Adidas,Global Supplies,191,854,1102,4.0,2023-12-27
+PROD1005,Dumbbells,Fashion,Apple,Premium Retailers,198,3905,2205,4.2,2021-06-29
+PROD1006,Jeans,Beauty,Puma,Premium Retailers,500,1345,2979,4.0,2020-07-15
+PROD1007,Cycling Helmet,Electronics,Puma,Premium Retailers,211,3892,4017,3.4,2021-12-06
+PROD1008,Smartphone,Beauty,Samsung,XYZ Distributors,237,3205,609,4.4,2021-07-28
+PROD1009,Treadmill,Sports,Puma,Global Supplies,253,3956,1065,3.9,2022-01-23
+PROD1010,Cookware Set,Sports,Reebok,FastTrack Logistics,129,301,3629,3.3,2022-08-03
+PROD1011,Lipstick,Beauty,Philips,FastTrack Logistics,324,3810,3515,4.3,2022-09-11
+PROD1012,Running Shoes,Sports,Reebok,ABC Traders,467,1562,527,3.4,2022-06-21
+PROD1013,Dining Table,Beauty,Sony,Premium Retailers,285,1203,1832,5.0,2021-01-02
+PROD1014,Shampoo,Beauty,Apple,FastTrack Logistics,425,1290,1079,5.0,2023-01-24
+PROD1015,Smartwatch,Sports,Philips,FastTrack Logistics,387,3721,1203,4.9,2022-02-12
+PROD1016,Handbag,Electronics,Apple,Premium Retailers,469,2846,587,3.9,2021-07-04
+PROD1017,Laptop,Home & Kitchen,Sony,ABC Traders,200,3959,3545,4.2,2022-12-06
+PROD1018,Headphones,Home & Kitchen,Nike,FastTrack Logistics,271,2230,3769,3.7,2023-10-22
+PROD1019,Tablet,Beauty,Apple,Global Supplies,106,1378,4022,4.0,2022-08-31
+PROD1020,Foundation,Electronics,LG,Global Supplies,278,699,3261,4.1,2023-03-23
+PROD1021,Face Cream,Beauty,Philips,Premium Retailers,404,404,1691,3.6,2022-06-10
+PROD1022,Microwave,Home & Kitchen,LG,Global Supplies,142,2146,3739,4.0,2023-04-07
+PROD1023,Jacket,Beauty,Reebok,ABC Traders,212,1082,2320,3.1,2021-10-12
+PROD1024,Blender,Electronics,LG,ABC Traders,428,1896,1695,3.1,2022-09-13
