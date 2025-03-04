@@ -62,8 +62,8 @@ This project analyzes 50,000+ orders from an e-commerce dataset to extract insig
 
 📁 Data/ → Raw and processed datasets
 
-📁 Notebooks/ → Python scripts for data analysis
-
 📁 SQL Queries/ → SQL scripts for extracting insights
+
+📁 Notebooks/ → Python scripts for data analysis
 
 📁 Dashboards/ → Power BI visualizations
